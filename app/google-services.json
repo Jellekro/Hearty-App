@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "241124967721",
+    "firebase_url": "https://hearty-3f491.firebaseio.com",
+    "project_id": "hearty-3f491",
+    "storage_bucket": "hearty-3f491.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241124967721:android:c8933e5d4556b5a7",
+        "android_client_info": {
+          "package_name": "com.example.xdhacks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241124967721-jfsi0cjunlgcb0km2bi1o7agn1p99s07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN8iD-lE2wn3BKaaixE5XnZpWuPaOAdJs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
